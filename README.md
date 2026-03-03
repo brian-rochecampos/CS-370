@@ -1,1 +1,12 @@
-# CS-370
+Briefly explain the work that you did on this project: What code were you given? What code did you create yourself?
+For this project, I was given starter code for the treasure hunt game, including the maze environment, helper functions, and a partially completed Q-training function. My task was to finish the training section so the pirate agent could learn how to navigate the maze and reach the treasure. I completed the missing training logic, which allowed the program to run without errors and train the agent over many epochs. After finishing that section, the output showed the agent improving until it consistently reached the treasure, and the testing steps confirmed the trained agent could solve the maze from the starting position.
+
+What do computer scientists do and why does it matter?
+Computer scientists create programs, algorithms, and systems that solve problems and make tasks easier or more efficient. In this project, that meant writing code that allowed the agent to learn how to navigate the maze. This matters because software and intelligent systems are used in many areas of everyday life, including video games, businesses, healthcare, and transportation. The work computer scientists do helps automate processes, improve decision-making, and build tools people rely on every day.
+
+How do I approach a problem as a computer scientist?
+I approach problems by breaking them into smaller parts and understanding how each part works before making changes. For this project, I reviewed the existing code to understand the maze environment and what the agent needed to accomplish. Then I focused on completing the missing training section step by step and tested the program to make sure it was working correctly. This helped me stay organized and fix issues without changing parts that were already working.
+
+What are my ethical responsibilities to the end user and the organization?
+My responsibility as a developer is to create systems that are reliable and behave as expected. That means testing code carefully, fixing errors, and making sure the program does what it is supposed to do. I also need to be honest about what the system can and cannot do, and avoid creating software that could mislead or harm users. For organizations, ethical responsibility includes writing clear, maintainable code and considering how the software might impact users and other people who interact with it.
+
